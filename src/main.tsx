@@ -27,11 +27,11 @@ type ShopifyStore = {
 
 const goLinks = {
   omnicosmos: 'https://cosmos.techandtonic.tech/',
-  library: 'https://aaroncrume-techandtonic.github.io/indigenous-pages/',
-  modoc: 'https://aaroncrume-techandtonic.github.io/Modoc-War/',
-  watershed: 'https://aaroncrume-techandtonic.github.io/klamath-watershed/',
-  language: 'https://aaroncrume-techandtonic.github.io/klamath-app-medicine-wheel/',
-  oracle: 'https://aaroncrume-techandtonic.github.io/OracleNeumero/',
+  library: 'https://techandtonic.github.io/indigenous-pages/',
+  modoc: 'https://techandtonic.github.io/Modoc-War/',
+  watershed: 'https://techandtonic.github.io/klamath-watershed/',
+  language: 'https://techandtonic.github.io/klamath-app-medicine-wheel/',
+  oracle: 'https://techandtonic.github.io/OracleNeumero/',
 } as const;
 
 const shopifyStores: ShopifyStore[] = [
