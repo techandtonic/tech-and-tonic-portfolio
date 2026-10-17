@@ -30,27 +30,27 @@
     },
     {
       "source": "/go/library",
-      "destination": "https://aaroncrume-techandtonic.github.io/indigenous-pages/",
+      "destination": "https://techandtonic.github.io/indigenous-pages/",
       "permanent": false
     },
     {
       "source": "/go/modoc",
-      "destination": "https://aaroncrume-techandtonic.github.io/Modoc-War/",
+      "destination": "https://techandtonic.github.io/Modoc-War/",
       "permanent": false
     },
     {
       "source": "/go/watershed",
-      "destination": "https://aaroncrume-techandtonic.github.io/klamath-watershed/",
+      "destination": "https://techandtonic.github.io/klamath-watershed/",
       "permanent": false
     },
     {
       "source": "/go/language",
-      "destination": "https://aaroncrume-techandtonic.github.io/klamath-app-medicine-wheel/",
+      "destination": "https://techandtonic.github.io/klamath-app-medicine-wheel/",
       "permanent": false
     },
     {
       "source": "/go/oracle",
-      "destination": "https://aaroncrume-techandtonic.github.io/OracleNeumero/",
+      "destination": "https://techandtonic.github.io/OracleNeumero/",
       "permanent": false
     }
   ]
