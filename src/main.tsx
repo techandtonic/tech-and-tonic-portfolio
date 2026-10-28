@@ -210,7 +210,7 @@ const kelvinWaveFeature: LinkCard = {
   title: 'Pacific Kelvin Wave 2026',
   detail:
     'An interactive simulation of the planetary Kelvin wave moving across the Pacific in 2026 — explore the ocean-atmosphere dynamics behind the event.',
-  href: 'https://aaroncrume-techandtonic.github.io/pacific-kelvin-wave-2026/',
+  href: 'https://techandtonic.github.io/pacific-kelvin-wave-2026/',
   label: 'New · Infographic',
 };
 
